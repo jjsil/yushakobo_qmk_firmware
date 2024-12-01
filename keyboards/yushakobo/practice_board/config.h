@@ -20,3 +20,8 @@
 //#define NO_ACTION_ONESHOT
 
 #define RGBLIGHT_DEFAULT_VAL 32
+
+// Enable RBG Light Layers feature
+#define RGBLIGHT_LAYERS
+// Retain the default brightness value instead of using the layer value
+#define RGBLIGHT_LAYERS_RETAIN_VAL
